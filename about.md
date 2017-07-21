@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  About
+title: About
 permalink: /about/
 ---
 
-还没想好。。。
+[GitHub](https://github.com/lyqscmy)
