@@ -30,8 +30,10 @@ theme: minima
 # plugins:
   # - jekyll-feed
 
-disqus:
-  shortname: lyqscmy
+# disqus:
+#   shortname: lyqscmy
+
+google_analytics: UA-102189154-2
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
